@@ -1,87 +1,53 @@
 <rss>
-<channel>
-
-<item>
-<title>bghani b3youbi</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/00.bghani b3youbi.mp3" />
-</item>
-
-<item>
-<title>Mennek Wla Menni 2017</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/01.Mennek Wla Menni 2017.mp3" />
-</item>
-
-<item>
-<title>Intaa Ya</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/Intaa Ya.mp3" />
-</item>
-
-<item>
-<title>Mafi Men Habibi</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/Mafi Men Habibi.mp3" />
-</item>   
-
-<item>
-<title>erja3 lia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/erja3 lia.mp3" />
-</item>
-
-<item>
-<title>maghrebia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/maghrebia.mp3" />
-</item>
-
-<item>
-<title>ndir ma bghit</title>
-<enclosure url="
-http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/ndir ma bghit.mp3" />
-</item>
-
-<item>
-<title>wali lia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/wali lia.mp3" />
-</item>
-
-<item>
-<title>bghani b3youbi</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/00.bghani b3youbi.mp3" />
-</item>
-
-<item>
-<title>Mennek Wla Menni 2017</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/01.Mennek Wla Menni 2017.mp3" />
-</item>
-
-<item>
-<title>Intaa Ya</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/Intaa Ya.mp3" />
-</item>
-
-<item>
-<title>Mafi Men Habibi</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/Mafi Men Habibi.mp3" />
-</item>
-
-<item>
-<title>erja3 lia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/erja3 lia.mp3" />
-</item>
-
-<item>
-<title>maghrebia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/maghrebia.mp3" />
-</item>
-
-<item>
-<title>ndir ma bghit</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/ndir ma bghit.mp3" />
-</item>
-
-<item>
-<title>wali lia</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20مغربية/ابتسام-تسكت-2017/wali lia.mp3" />
-</item>
+    <channel>
+            <item>
 
 
-</channel>
+            <title>مافي من حبيبي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/ebtsam-teskt/singles/Dndnha.Com.Ebtsam.Teskt.Mafy.Mn.Habeby.mp3"/>
+        </item>
+        <item>
+
+
+            <title>ولي ليا</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/ibtissam%20-tiskat/singels/Dndnha.Com.Ibtesam.Teskt.Wly.Lya.mp3"/>
+        </item>
+        <item>
+
+
+            <title>انت يا - مع عبدالسلام الزايد</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/ibtissam%20-tiskat/singels/Dndnha.Com.Ibtissam.tiskat.Enta.Ya.mp3"/>
+        </item>
+        <item>
+
+
+            <title>مغربية وافتخر</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/ibtissam%20-tiskat/singels/Dndnha.Com.Ibtissam.tiskat.Magrbia.Waftakr.mp3"/>
+        </item>
+        <item>
+
+
+            <title>بغاني بعيوبي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/ebtsam-teskt/singles/Dndnha.Com.Ibtissam.Tiskat.Bghani.B3youbi.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الخاوة</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/ebtsam-teskt/singles/Dndnha.Com.Ibtissam.Tiskat.Al.Khawa.mp3"/>
+        </item>
+        <item>
+
+
+            <title>منك ولا مني</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/ebtsam-teskt/singles/Dndnha.Com.Ibtissam.Tiskat.Mennek.Wla.Menni.mp3"/>
+        </item>
+
+        <item>
+
+
+            <title>ندير ما بغيت</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/ibtissam%20-tiskat/singels/Dndnha.Com.Ibtissam.tiskat.Nadir.Ma.Begit.mp3"/>
+        </item>
+    </channel>
 </rss>
